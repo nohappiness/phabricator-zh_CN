@@ -1,14 +1,14 @@
 # phabricator-zh_CN
-Phabricator locales for zh_CN
+Phabricator 中文翻译
 
-About
+关于
 =====
 
-The ``phabricator-zh_CN`` project provides chinese locales for `Phabricator <https://phabricator.com>`.
+本 ``phabricator-zh_CN`` 项目提供了 `Phabricator <https://phabricator.com>` 的中文翻译.
 
-Setup
+安装
 -----
 
-1. Drop the code into phabricator/src/extensions/
-2. Configure Settings -> Account -> Account Settings -> Translation via http://issue.wanthings.com/settings/
-3. Select`中文 (简体中文)`.
+1. 将文件放到目录 phabricator/src/extensions/
+2. 在设置中打开翻译: Configure Settings -> Account -> Account Settings -> Translation
+3. 选择 `中文 (简体中文)`.
