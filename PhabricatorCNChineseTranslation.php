@@ -1471,7 +1471,7 @@ extends PhutilTranslation {
 				'Short Name' => '短名',
 				'Working Copy Status' => '工作区状态',
 				'Update Frequency' => '更新频率',
-				'Repository Inactive' => '仓库未启用'
+				'Repository Inactive' => '仓库未启用',
 				'Activate this repository to begin or resume import.' => '启用此仓库以开始或恢复导入.',
 				);
 	}
